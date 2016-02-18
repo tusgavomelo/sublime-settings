@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+'"], "command": "focus_side_bar" },
+	{ "keys": ["f2"], "command": "goto_definition" }
+]

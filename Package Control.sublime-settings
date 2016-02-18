@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ColorSchemeEditor",
+		"ColorSchemeSelector",
+		"Colorsublime",
+		"Emmet",
+		"HTML Underscore Syntax",
+		"Jade",
+		"JavaScriptNext - ES6 Syntax",
+		"JSHint",
+		"LiveReload",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Material Theme",
+		"Monokai - Spacegray",
+		"Monokai Extended",
+		"Package Control",
+		"Sass",
+		"SASS Build",
+		"SCSS",
+		"Stylus",
+		"Theme - amCoder",
+		"Theme - Phoenix",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"ThemeTweaker"
+	]
+}
