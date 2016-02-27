@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/Flatgrammer.tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/Flatgrammer.tmTheme",
 	"file_exclude_patterns":
 	[
 		"*.pyc",
@@ -40,5 +40,6 @@
 	"tab_size": 2,
 	"theme": "amCoder.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"rulers": [90]
 }
